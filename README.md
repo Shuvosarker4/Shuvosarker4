@@ -18,7 +18,7 @@
 ### 🚀 Competitive Programmer  
 
 🌱 **Currently diving into:**  
-   - Web Developer 💻 
+   - Full stack Developer ⚒️
    - Competitive programming 💻  
    - Problem-solving challenges 🧩  
 
