@@ -23,7 +23,7 @@
    - Problem-solving challenges 🧩  
 
 💬 **Ask me about:**  
-   - ReactJs, Django 💻 
+   - Expertise in **React & Next Js, Django** 💻 
    - Programming in **C, C++, Python** 🐍  
    - Data structures and algorithms 🔗  
 
