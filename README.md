@@ -47,37 +47,36 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+## :computer: Technologies that I know
+
+<br>
+<p align="center" style="display:flex; align-items:center; justify-content:space-between; gap:60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/html.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/css.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/javascript.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/reactjs.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/nextjs.png"/>
+
+
+</p>
+
+<p align="center">
+<img height="55" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/typescript.png"/>
+<img height="55" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/tailwind.png"/>
+<img height="55" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/redux.png"/>
+<img height="55" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/figma.png"/>
+<img height="55" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/git.png"/>
+</p>
+
+<p align="center">
+<img height="45" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/firebase.webp"/>
+<img height="45" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/nodejs.png"/>
+<img height="45" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/express.png" "Expressjs"/>
+<img height="45" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/mongodb.png"/>
+<img height="45" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/mongoose.png"/>
+
 </p>
 
 
