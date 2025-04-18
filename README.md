@@ -51,10 +51,12 @@
 
 <br>
 <p align="center" style="display:flex; align-items:center; justify-content:space-between; gap:60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="65" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="65" style="border-radius: 8px; padding: 8px; background-color: #f0f0f0; transition: transform 0.3s, background-color 0.3s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 <img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/html.png"/>
 <img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/css.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/python.png"/>
+<img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/django.svg"/>
 <img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/javascript.png"/>
 <img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/reactjs.png"/>
 <img height="65" src="https://github.com/Shuvosarker4/Shuvosarker4/blob/main/nextjs.png"/>
